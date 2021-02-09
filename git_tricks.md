@@ -1,5 +1,5 @@
-git config remote.origin.url https://{USERNAME}:{PASSWORD}@github.com/{USERNAME}/{REPONAME}.git
-git config --global credential.helper wincred
+	git config remote.origin.url https://{USERNAME}:{PASSWORD}@github.com/{USERNAME}/{REPONAME}.git
+	git config --global credential.helper wincred
 
 
 # Basic commands

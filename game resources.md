@@ -1,38 +1,13 @@
-	git config remote.origin.url https://{USERNAME}:{PASSWORD}@github.com/{USERNAME}/{REPONAME}.git
-	git config --global credential.helper wincred
+# Links for Game resources
 
+1. [OpenGameArt.org]: sounds, sound effects, sprites, and other artwork
+2. [Kenney.nl]: sounds, sound effects, sprites, and other artwork
+3. [Gamer Art 2D]: sprites and other artwork
+4. [CC Mixter]: sounds and sound effects
+5. [Freesound]: sounds and sound effects
 
-# Basic commands
-
-## Create a new repo
-	git init
-	git remote add origin repo_url
-	git clone repo_url
-
-## Check git files status
-	git status
-
-## Tracking files
-	git add .
-	git commit -m "comment"
-
-## Push to github
-	git push
-	git push -u origin master
-
-...
-
-# Contribute to other people repo
-
-## cloning repo
-	fork the repo
-	git clone repo_url
-	git remote -v
-	git remote add upstream url
-	git pull upstream main
-
-	git add.
-	git commit -m "added new file"
-	git push
-
-	make a pull request
+[OpenGameArt.org] : (https://opengameart.org/)
+[Kenney.nl] : (https://kenney.nl/)
+[Gamer Art 2D] : (https://www.gameart2d.com/)
+[CC Mixter] : (http://ccmixter.org/)
+[Freesound] : (https://freesound.org/)

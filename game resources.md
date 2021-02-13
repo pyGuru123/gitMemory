@@ -6,8 +6,8 @@
 4. [CC Mixter]: sounds and sound effects
 5. [Freesound]: sounds and sound effects
 
-[OpenGameArt.org] : (https://opengameart.org/)
-[Kenney.nl] : (https://kenney.nl/)
-[Gamer Art 2D] : (https://www.gameart2d.com/)
-[CC Mixter] : (http://ccmixter.org/)
-[Freesound] : (https://freesound.org/)
+[OpenGameArt.org]: (https://opengameart.org/)
+[Kenney.nl]: (https://kenney.nl/)
+[Gamer Art 2D]: (https://www.gameart2d.com/)
+[CC Mixter]: (http://ccmixter.org/)
+[Freesound]: (https://freesound.org/)

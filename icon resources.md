@@ -7,23 +7,21 @@
 
 <details>
 
-  <summary> ### Using Font Awesome icons 👇 </summary>
+  <summary> Using Font Awesome icons 👇 </summary>
   
   <br>
+ 
 ```html
-<!DOCTYPE html>
-<html>
-  <head>
+
+<head>
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  </head>
-  <body>
+</head>
+<body>
     <i class="fa fa-rocket" aria-hidden="true"></i>
-  </body>
-</html>
+</body>
 ```
-  
-<br>
-```css
+
+```
 .fa-rocket {
   position: absolute;
   top: 50%;
@@ -35,7 +33,6 @@
   text-shadow: -10px 15px 10px rgba(0,0,0,0.2);
 }
 ```
-
 
 </details>
 

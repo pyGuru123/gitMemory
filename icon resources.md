@@ -36,6 +36,22 @@
 
 </details>
 
+<details>
+
+  <summary> Using Ionicons 👇 </summary>
+  
+  <br>
+ 
+```html
+
+<body>
+    <ion-icon name="aperture"></ion-icon>
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</body>
+```
+
+</details>
+
 
 [Font Awesome icons]: https://fontawesome.com/v4.7.0/icons/
 [Ionicons]: https://ionicons.com/v2/

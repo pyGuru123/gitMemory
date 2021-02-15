@@ -3,6 +3,7 @@
 ### Image Cropping & Resizing
 
 * [Resize image .net]
+* [Image Resize proportion Calculator]
 
 ### Removing background from images
 
@@ -27,3 +28,4 @@
 [Pexels]: https://www.pexels.com/
 [Pixabay]: https://pixabay.com/
 [FreePik]: https://www.freepik.com/popular-photos
+[Image Resize proportion Calculator]: https://scriptygoddess.com/resources/proportioncalc.htm

@@ -10,6 +10,7 @@ assets, sprites & environments
 * [CraftPix Freebies] 
 * [Itch.io]
 * [GameDev Market]
+* [r/gameassets]
 
 ### Free Spriteheets
 
@@ -32,6 +33,7 @@ assets, sprites & environments
 [CC Mixter]: http://ccmixter.org/
 [Freesound]: https://freesound.org/
 [Sprite Resources]: https://www.spriters-resource.com/
+[r/gameassets]: https://www.reddit.com/r/gameassets/
 [Texture Resources]: https://www.textures-resource.com/
 [Sound Resources]: https://www.sounds-resource.com/
 [GameArt2D Free]: https://www.gameart2d.com/freebies.html

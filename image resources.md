@@ -13,6 +13,11 @@
 
 * [EZGIF]
 
+### Merge multiple images horizontally or vertically
+
+* [Merge.Image Online]
+* [PineTools Merge Images]
+
 ### Free High Quality Images
 
 * [Unsplash]
@@ -29,3 +34,5 @@
 [Pixabay]: https://pixabay.com/
 [FreePik]: https://www.freepik.com/popular-photos
 [Image Resize proportion Calculator]: https://scriptygoddess.com/resources/proportioncalc.htm
+[Merge.Image Online]: https://merge.imageonline.co/
+[PineTools Merge Images]: https://pinetools.com/merge-images

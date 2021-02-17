@@ -4,9 +4,17 @@
 2. [Kenney.nl] - sounds, sound effects, sprites, and other artwork
 3. [Gamer Art 2D] - sprites and other artwork
 
+### Free Game Assets 
+assets, sprites & environments
+
+* [CraftPix Freebies] 
+* [Itch.io]
+* [GameDev Market]
+
 ### Free Spriteheets
 
 * [Sprite Resources]
+* [GameArt2D Free]
 
 ### Free Textures
 
@@ -26,3 +34,7 @@
 [Sprite Resources]: https://www.spriters-resource.com/
 [Texture Resources]: https://www.textures-resource.com/
 [Sound Resources]: https://www.sounds-resource.com/
+[GameArt2D Free]: https://www.gameart2d.com/freebies.html
+[CraftPix Freebies]: https://craftpix.net/freebies/
+[Itch.io]: https://itch.io/game-assets/free
+[GameDev Market]: https://www.gamedevmarket.net/

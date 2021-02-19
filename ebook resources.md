@@ -20,6 +20,10 @@
 3. [PDF 2 Epub]
 4. [Epub 2 PDF]
 
+* [Ebook Converter]
+* [Online Converter - Ebook]
+* [ToEpub]
+
 
 [PDFDrive]: https://www.pdfdrive.com/
 [Library Genesis]: http://libgen.rs/
@@ -36,3 +40,6 @@
 [PDF 2 Mobi]: https://www.zamzar.com/convert/pdf-to-mobi/
 [PDF 2 Epub]: https://www.zamzar.com/convert/pdf-to-epub/
 [Epub 2 PDF]: https://www.zamzar.com/convert/epub-to-pdf/
+[Ebook Converter Online]: https://ebook.online-convert.com/
+[Online Ebook Converter]: https://www.onlineconverter.com/ebook
+[ToEpub]: https://toepub.com/

@@ -11,6 +11,12 @@
 7. [FreeBookSpot]
 8. [Free eBooks]
 9. [FreeComputerBooks]
+10. [Book Yards]
+
+# Online Ebook Converters
+
+1. [Mobi 2 PDF]
+2. [PDF 2 Mobi] - Kindle supported format
 
 
 [PDFDrive]: https://www.pdfdrive.com/
@@ -22,3 +28,8 @@
 [FreeBookSpot]: http://www.freebookspot.es/
 [Free eBooks]: https://www.free-ebooks.net/
 [FreeComputerBooks]: https://freecomputerbooks.com/
+[Book Yards]: http://www.bookyards.com/en/welcome
+
+[Mobi 2 PDF]: https://www.zamzar.com/convert/mobi-to-pdf/
+[PDF 2 Mobi]: https://www.zamzar.com/convert/pdf-to-mobi/
+[PDF 2 Epub]: https://www.zamzar.com/convert/pdf-to-epub/

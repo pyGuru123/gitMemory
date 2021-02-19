@@ -15,8 +15,10 @@
 
 # Online Ebook Converters
 
-1. [Mobi 2 PDF]
-2. [PDF 2 Mobi] - Kindle supported format
+1. [PDF 2 Mobi] - Kindle supported format
+2. [Mobi 2 PDF]
+3. [PDF 2 Epub]
+4. [Epub 2 PDF]
 
 
 [PDFDrive]: https://www.pdfdrive.com/
@@ -33,3 +35,4 @@
 [Mobi 2 PDF]: https://www.zamzar.com/convert/mobi-to-pdf/
 [PDF 2 Mobi]: https://www.zamzar.com/convert/pdf-to-mobi/
 [PDF 2 Epub]: https://www.zamzar.com/convert/pdf-to-epub/
+[Epub 2 PDF]: https://www.zamzar.com/convert/epub-to-pdf/

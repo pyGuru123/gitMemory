@@ -21,7 +21,7 @@
 4. [Epub 2 PDF]
 
 * [Ebook Converter Online]
-* [Online Converter - Ebook]
+* [Online Ebook Converter]
 * [ToEpub]
 
 

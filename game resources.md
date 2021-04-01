@@ -26,6 +26,7 @@ assets, sprites & environments
 * [CC Mixter]
 * [Freesound]
 * [Sound Resources]
+* [KHInsider Video Game Music]
 
 [OpenGameArt.org]: https://opengameart.org/
 [Kenney.nl]: https://kenney.nl/
@@ -39,4 +40,5 @@ assets, sprites & environments
 [GameArt2D Free]: https://www.gameart2d.com/freebies.html
 [CraftPix Freebies]: https://craftpix.net/freebies/
 [Itch.io]: https://itch.io/game-assets/free
+[KHInsider Video Game Music]: https://downloads.khinsider.com/
 [GameDev Market]: https://www.gamedevmarket.net/

@@ -5,9 +5,10 @@
 * [Resize image .net]
 * [Image Resize proportion Calculator]
 
-### Removing background from images
+### Removing background & objects from images
 
 * [Remove bg]
+* [Remove Unwanted Objects - InPaint]
 
 ### Splitting GIF frames
 
@@ -36,3 +37,4 @@
 [Image Resize proportion Calculator]: https://scriptygoddess.com/resources/proportioncalc.htm
 [Merge.Image Online]: https://merge.imageonline.co/
 [PineTools Merge Images]: https://pinetools.com/merge-images
+[Remove Unwanted Objects - InPaint]: https://theinpaint.com/

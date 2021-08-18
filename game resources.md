@@ -11,6 +11,7 @@ assets, sprites & environments
 * [Itch.io]
 * [GameDev Market]
 * [r/gameassets]
+* [Spriters Resource]
 
 ### Free Spriteheets
 
@@ -42,3 +43,4 @@ assets, sprites & environments
 [Itch.io]: https://itch.io/game-assets/free
 [KHInsider Video Game Music]: https://downloads.khinsider.com/
 [GameDev Market]: https://www.gamedevmarket.net/
+[Spriters Resource]: https://www.spriters-resource.com/
